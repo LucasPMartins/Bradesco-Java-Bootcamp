@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c8afc6-8436-4bad-9563-ea6217d314eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+    <list default="true" id="5d5a5954-a2fc-453c-af37-e8da48c75012" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bradesco-Java-Bootcamp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Basico-Desafio/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +17,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LucasPMartins"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LucasPMartins/Bradesco-Java-Bootcamp.git",
+    "accountId": "cd05fcda-05eb-46c6-b694-1c5145d75385"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2uEGDS5cwS2HaXgK2Px8ZWZ9EeK" />
+  <component name="ProjectId" id="2uGVdPN8aZ1IBUKdItCVgj0bFFc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,11 +49,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44c8afc6-8436-4bad-9563-ea6217d314eb" name="Changes" comment="" />
-      <created>1741806200467</created>
+      <changelist id="5d5a5954-a2fc-453c-af37-e8da48c75012" name="Changes" comment="" />
+      <created>1741874985204</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741806200467</updated>
+      <updated>1741874985204</updated>
     </task>
     <servers />
   </component>
