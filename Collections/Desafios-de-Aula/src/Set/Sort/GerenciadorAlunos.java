@@ -25,10 +25,7 @@ public class GerenciadorAlunos {
                 }
             }
             alunosSet.remove(alunoParaRemover);
-        } else {
-            throw new RuntimeException("O conjunto está vazio!");
         }
-
         if (alunoParaRemover == null) {
             System.out.println("Matricula não encontrada!");
         }
