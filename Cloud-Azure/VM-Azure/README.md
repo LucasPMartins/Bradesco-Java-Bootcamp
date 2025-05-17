@@ -73,5 +73,5 @@ Resumo: É como ter um painel de controle completo pra sua nuvem, onde você olh
 ---
 
 ## **Como criar uma Máquina Virtual Windows no Azure**: 
-[Clique aqui para saber mais.](.\CreateVMAzure.md)
+[Clique aqui para saber mais.](./CreateVMAzure.md)
 
